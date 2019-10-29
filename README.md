@@ -1,8 +1,12 @@
-# Project 3 - *Twitter*
+# Twitter
 
-**Twitter** is a basic twitter app to read your tweets.
+Twitter is a basic twitter app to read your tweets.
+
+Submitted by: **Diana Balderas**
 
 Time spent: **4** hours spent in total
+
+---
 
 ## User Stories
 
