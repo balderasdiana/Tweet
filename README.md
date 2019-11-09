@@ -54,5 +54,5 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![alt text](https://drive.google.com/file/d/0Bxpf6hnE1MxYUjRlV0VhNTJWUGV1VzA4TkxJdmdkZmx6Nmpn)
+![alt text](https://drive.google.com/file/d/0Bxpf6hnE1MxYUjRlV0VhNTJWUGV1VzA4TkxJdmdkZmx6Nmpn/view?usp=sharing)
 <img src= "https://drive.google.com/file/d/0Bxpf6hnE1MxYUjRlV0VhNTJWUGV1VzA4TkxJdmdkZmx6Nmpn" title='Image Walkthrough' alt='Image Walkthrough' />
