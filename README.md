@@ -8,6 +8,12 @@ Time spent: **4** hours spent in total
 
 ---
 
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='http://g.recordit.co/IsiONGQqKo.gif' title='Video Walkthrough' width=250 alt='Video Walkthrough' />
+
 ## User Stories
 
 The following **required** functionality is completed:
@@ -25,7 +31,7 @@ The following **bonus** features are implemented:
 
 # Twitter - Part II
 
---
+---
 
 This is a basic twitter app to view, compose, favorite, and retweet tweets.
 
@@ -44,12 +50,6 @@ The following **bonus** features are implemented:
 - [x] When composing a tweet, user sees a countdown for the number of characters remaining for the tweet (out of 140) (2pts)
 - [x] User can view their profile in a profile tab. (3pts)
 - [x] User sees embedded images in tweet if available. (3pts)
-
-## Video Walkthrough
-
-Here's a walkthrough of implemented user stories:
-
-<img src='http://g.recordit.co/IsiONGQqKo.gif' title='Video Walkthrough' width=250 alt='Video Walkthrough' />
 
 ## License
 
