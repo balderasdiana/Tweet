@@ -8,12 +8,6 @@ Time spent: **4** hours spent in total
 
 ---
 
-## Video Walkthrough
-
-Here's a walkthrough of implemented user stories:
-
-<img src='http://g.recordit.co/IsiONGQqKo.gif' title='Video Walkthrough' width=250 alt='Video Walkthrough' />
-
 ## User Stories
 
 The following **required** functionality is completed:
@@ -28,6 +22,13 @@ The following **bonus** features are implemented:
 
 - [x] User can pull to refresh. (1pt)
 - [x] User can load past tweets infinitely. (2pts)
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='http://g.recordit.co/IsiONGQqKo.gif' title='Video Walkthrough' width=250 alt='Video Walkthrough' />
+
 
 # Twitter - Part II
 
