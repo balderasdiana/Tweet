@@ -4,7 +4,7 @@ Twitter is a basic twitter app to read your tweets.
 
 Submitted by: **Diana Balderas**
 
-Time spent: **4** hours spent in total
+Time spent: **5** hours spent in total
 
 ---
 
@@ -28,6 +28,7 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/IsiONGQqKo.gif' title='Video Walkthrough' width=250 alt='Video Walkthrough' />
+
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 
@@ -37,7 +38,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 This is a basic twitter app to view, compose, favorite, and retweet tweets.
 
-Time spent: **5** hours spent in total
+Time spent: **6** hours spent in total
 
 ## User Stories
 
