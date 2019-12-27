@@ -1,4 +1,4 @@
-# Twitter
+# Tweet
 
 Twitter is a basic twitter app to read your tweets.
 
@@ -32,7 +32,7 @@ Here's a walkthrough of implemented user stories:
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 
-# Twitter - Part II
+# Tweet - Part II
 
 ---
 
